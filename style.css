@@ -8,5 +8,9 @@ li{
 
 }
 
+li.done{
+    background: #ccff99;
+}
+
 
 
